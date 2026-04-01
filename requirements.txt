@@ -1,0 +1,7 @@
+# WordleSolver Python Edition
+# No external dependencies required - uses only Python standard library.
+# tkinter is included with most Python installations.
+# If tkinter is missing, install it via your system package manager:
+#   Ubuntu/Debian: sudo apt-get install python3-tk
+#   Fedora: sudo dnf install python3-tkinter
+#   macOS: tkinter is included with the official Python installer
